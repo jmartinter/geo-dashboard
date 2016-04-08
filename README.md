@@ -1,4 +1,4 @@
-Present customer behaviour last month
+Generates a representation about customer behaviour last month
 
 ====
 
