@@ -19,8 +19,10 @@ pip install -r requirements
 mkdir input
 mkdir output
 deactivate
+```
 
 ## How to run it
+```
 source venv/bin/activate
 jupyter notebook
 ```
