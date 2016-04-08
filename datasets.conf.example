@@ -1,0 +1,13 @@
+[mrr_input]
+file_dir=input
+file_name=xxxxxxxx.csv
+
+[output]
+local_file_dir=output
+local_file_name=xxxxxxxx.csv
+
+[gdrive]
+auth_file=xxxxxxxx.json
+input_json_file_id=xxxxxxxx
+output_csv_file_id=xxxxxxxx
+
