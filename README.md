@@ -1,4 +1,4 @@
-Present customer behaviour last month
+Generates a representation about customer behaviour last month
 
 ====
 
@@ -16,11 +16,11 @@ A enriched version of the input csv file
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements
-mkdir input
-mkdir output
 deactivate
+```
 
 ## How to run it
+```
 source venv/bin/activate
 jupyter notebook
 ```
