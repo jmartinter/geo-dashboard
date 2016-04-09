@@ -16,8 +16,6 @@ A enriched version of the input csv file
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements
-mkdir input
-mkdir output
 deactivate
 ```
 
